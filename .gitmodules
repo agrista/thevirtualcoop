@@ -1,0 +1,8 @@
+[submodule "src/marketplace"]
+	path = src/marketplace
+	url = git@github.com:agrista/odoo-marketplace
+	branch = 14.0
+[submodule "src/addons"]
+	path = src/addons
+	url = git@github.com:sdxafrica/admin-addons
+	branch = 14.0
