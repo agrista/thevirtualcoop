@@ -1,0 +1,110 @@
+id,name,department_id,mobile,phone,function,email,team_id,parent_id,country_id,is_company,company_id
+adriaan_geldenhuys,Adriaan Geldenhuys,National / Southern,082 301 2928,,Gewas Adviseur,AdriaanG@InteliGro.co.za,Malmesbury,InteliGro,South Africa,FALSE,InteliGro
+albie_wessels,Albie Wessels,National / Southern,082 807 0907,,Senior Gewas Adviseur,AlbieW@InteliGro.co.za,Porterville,InteliGro,South Africa,FALSE,InteliGro
+gerhard_visser,Gerhard Visser,National / Southern,073 568 2942,,Senior Gewas Adviseur,GerhardV@InteliGro.co.za,Citrusdal,InteliGro,South Africa,FALSE,InteliGro
+gerrit_de_kock,Gerrit De Kock,National / Southern,082 462 0547,,Gewas Adviseur,GerritDK@InteliGro.co.za,Moorreesburg,InteliGro,South Africa,FALSE,InteliGro
+henry_odendaal,Henry Odendaal,National / Southern,082 601 0812,,Senior Gewas Adviseur,HenryO@InteliGro.co.za,Moorreesburg,InteliGro,South Africa,FALSE,InteliGro
+jacobus_wium,Jacobus Wium,National / Southern,084 776 5474,,Gewas Adviseur,JacobusW@InteliGro.co.za,Moorreesburg,InteliGro,South Africa,FALSE,InteliGro
+jan-hendrik_visser,Jan-Hendrik Visser,National / Southern,082 920 9490,,Gewas Adviseur,JanHendrikV@InteliGro.co.za,Piketberg,InteliGro,South Africa,FALSE,InteliGro
+jan-kwak_du_toit,Jan-Kwak Du Toit,National / Southern,082 380 2223,,Senior Gewas Adviseur,JanKwak@InteliGro.co.za,Hopefield,InteliGro,South Africa,FALSE,InteliGro
+m�ller_nel,M�ller Nel,National / Southern,082 789 3243,,Gewas Adviseur,MollerN@InteliGro.co.za,Durbanville,InteliGro,South Africa,FALSE,InteliGro
+penna_odendaal,Penna Odendaal,National / Southern,082 555 8943,,Gewas Adviseur,penna@surechemagri.co.za,Moorreesburg,InteliGro,South Africa,FALSE,InteliGro
+philip_geldenhuys,Philip Geldenhuys,National / Southern,083 658 4570,,Senior Gewas Adviseur,PhilipG@InteliGro.co.za,Malmesbury,InteliGro,South Africa,FALSE,InteliGro
+pieter_saaiman,Pieter Saaiman,National / Southern,083 457 5551,,Senior Gewas Adviseur,PieterS@InteliGro.co.za,Clanwilliam,InteliGro,South Africa,FALSE,InteliGro
+riaan_smit,Riaan Smit,National / Southern,082 807 7664,,Senior Gewas Adviseur,RiaanS@InteliGro.co.za,Trawal,InteliGro,South Africa,FALSE,InteliGro
+charl_du_toit,Charl Du Toit,National / Southern,084 569 2402,,Moniteerder,CharlDT@InteliGro.co.za,,InteliGro,South Africa,FALSE,InteliGro
+janes_nel,Janes Nel,National / Southern,082 094 1899,,Leerling Gewas Adviseur,JanesN@InteliGro.co.za,,InteliGro,South Africa,FALSE,InteliGro
+sp_wessels,Sp Wessels,National / Southern,071 424 8400,,Leerling Gewas Adviseur,SPW@InteliGro.co.za,,InteliGro,South Africa,FALSE,InteliGro
+francois_ozrovech,Francois Ozrovech,National / Southern,072 334 5448,,Gewas Adviseur,FrancoisO@InteliGro.co.za,Kanoneiland/Upington,InteliGro,South Africa,FALSE,InteliGro
+jaco_smit,Jaco Smit,National / Southern,082 494 4316,,Gewas Adviseur,,Benede Oranje-Rivier,InteliGro,South Africa,FALSE,InteliGro
+louie_van_zyl,Louie Van Zyl,National / Southern,+264 81125 9609,,Gewas Adviseur,LouieVZ@InteliGro.co.za,Namibi�,InteliGro,Namibia,FALSE,InteliGro
+michael_de_waal,Michael De Waal,National / Southern,,,Gewas Adviseur,,Benede Oranje-Rivier,InteliGro,South Africa,FALSE,InteliGro
+sarel_olivier,Sarel Olivier,National / Southern,083 765 2775,,Senior Gewas Adviseur,SarelO@InteliGro.co.za,Noordoewer/Viljoensdrif,InteliGro,South Africa,FALSE,InteliGro
+wessel_combrinck_,Wessel Combrinck ,National / Southern,079 509 9604,,Senior Gewas Adviseur,WesselC@InteliGro.co.za,Kakamas,InteliGro,South Africa,FALSE,InteliGro
+bennie_booysen,Bennie Booysen,National / Southern,072 432 4778,,Gewas Adviseur,BennieB@InteliGro.co.za,Stellenbosch,InteliGro,South Africa,FALSE,InteliGro
+bj_van_der_merwe,Bj Van Der Merwe,National / Southern,082 415 0846,,Gewas Adviseur,BJVDM@InteliGro.co.za,Wellington/Riebeek,InteliGro,South Africa,FALSE,InteliGro
+callie_wolfaardt,Callie Wolfaardt,National / Southern,082 877 3621,,Senior Gewas Adviseur,CallieW@InteliGro.co.za,Philippi,InteliGro,South Africa,FALSE,InteliGro
+jacques_geldenhuys,Jacques Geldenhuys,National / Southern,072 391 3878,,Gewas Adviseur,JacquesG@InteliGro.co.za,De Doorns,InteliGro,South Africa,FALSE,InteliGro
+johan_van_wyk,Johan Van Wyk,National / Southern,082 414 3538,,Gewas Adviseur,JohanVW@InteliGro.co.za,De Doorns,InteliGro,South Africa,FALSE,InteliGro
+koos_du_plessis,Koos Du Plessis,National / Southern,082 335 4458,,Gewas Adviseur,KoosDP@InteliGro.co.za,Kogmanskloof,InteliGro,South Africa,FALSE,InteliGro
+leroux_breytenbach,Leroux Breytenbach,National / Southern,082 823 8385,,Gewas Adviseur,LeRouxB@InteliGro.co.za,Rawsonville,InteliGro,South Africa,FALSE,InteliGro
+ludwig_uys,Ludwig Uys,National / Southern,083 231 4829,,Gewas Adviseur,LudwigU@InteliGro.co.za,Stellenbosch/CN/CJ,InteliGro,South Africa,FALSE,InteliGro
+philip_hartmann,Philip Hartmann,National / Southern,082 456 4457,,Gewas Adviseur,PhilipH@InteliGro.co.za,Wolseley,InteliGro,South Africa,FALSE,InteliGro
+pieter_hanekom,Pieter Hanekom,National / Southern,082 442 1746,,Gewas Adviseur,PieterH@InteliGro.co.za,Franschhoek,InteliGro,South Africa,FALSE,InteliGro
+ruan_lombard,Ruan Lombard,National / Southern,082 822 8657,,Leerling Gewas Adviseur,RuanL@InteliGro.co.za,Philippi,InteliGro,South Africa,FALSE,InteliGro
+victor_louw,Victor Louw,National / Southern,072 549 5121,,Gewas Adviseur,VictorL@InteliGro.co.za,Bonnievale,InteliGro,South Africa,FALSE,InteliGro
+vion_wium,Vion Wium,National / Southern,082 806 6095,,Senior Gewas Adviseur,VionW@InteliGro.co.za,Ceres,InteliGro,South Africa,FALSE,InteliGro
+werner_bekker,Werner Bekker,National / Southern,082 457 6718,,Gewas Adviseur,WernerB@InteliGro.co.za,Vyeboom,InteliGro,South Africa,FALSE,InteliGro
+wian_smith__,Wian Smith  ,National / Southern,084 591 7479,,Gewas Adviseur,WianS@InteliGro.co.za,Vyeboom,InteliGro,South Africa,FALSE,InteliGro
+wikus_botha,Wikus Botha,National / Southern,076 524 2661,,Gewas Adviseur,WikusB@InteliGro.co.za,Worcester,InteliGro,South Africa,FALSE,InteliGro
+henco_de_beer,Henco De Beer,National / Southern,072 585 0913,,Leerling Gewas Adviseur,HencoDB@InteliGro.co.za,,InteliGro,South Africa,FALSE,InteliGro
+andr�_wessels,Andr� Wessels,National / Southern,082 444 4969,,Senior Gewas Adviseur,AndreW@InteliGro.co.za,Caledon,InteliGro,South Africa,FALSE,InteliGro
+dc_fourie,Dc Fourie,National / Southern,083 284 6033,,Gewas Adviseur,DCF@InteliGro.co.za,Riviersonderend,InteliGro,South Africa,FALSE,InteliGro
+james_o'kennedy,James O'Kennedy,National / Southern,082 788 6514,,Senior Gewas Adviseur,JamesO@InteliGro.co.za,Bredasdorp,InteliGro,South Africa,FALSE,InteliGro
+john_fullard,John Fullard,National / Southern,082 873 4000,,Gewas Adviseur,JohnF@InteliGro.coza,Oudtshoorn,InteliGro,South Africa,FALSE,InteliGro
+johnnie_pienaar,Johnnie Pienaar,National / Southern,078 214 4618,,Senior Gewas Adviseur,JohnnieP@InteliGro.co.za,George,InteliGro,South Africa,FALSE,InteliGro
+louis_stegmann,Louis Stegmann,National / Southern,082 451 1910,,Gewas Adviseur,LouisS@InteliGro.co.za,Riversdal,InteliGro,South Africa,FALSE,InteliGro
+oostewald_eksteen,Oostewald Eksteen,National / Southern,082 829 5688,,Senior Gewas Adviseur,OostewaldE@InteliGro.co.za,Swellendam,InteliGro,South Africa,FALSE,InteliGro
+stiaan_breytenbach,Stiaan Breytenbach,National / Southern,082 492 7992,,Gewas Adviseur,StiaanB@InteliGro.co.za,Heidelberg,InteliGro,South Africa,FALSE,InteliGro
+derek_nicholson,Derek Nicholson,National / Southern,082 881 7209,,Senior Gewas Adviseur,dereknic@vodamail.co.za,Oos-Londen,InteliGro,South Africa,FALSE,InteliGro
+etienne_van_greunen,Etienne Van Greunen,National / Southern,083 656 8897,,Senior Gewas Adviseur,EtienneVG@InteliGro.co.za,Kirkwood,InteliGro,South Africa,FALSE,InteliGro
+jamie_pasques,Jamie Pasques,National / Southern,073 889 9893,,Gewas Adviseur,JamieP@InteliGro.co.za,Patensie,InteliGro,South Africa,FALSE,InteliGro
+leo_vermaak,Leo Vermaak,National / Southern,060 960 6059,,Gewas Adviseur,LeoV@InteliGro.co.za,Kirkwood,InteliGro,South Africa,FALSE,InteliGro
+mj_van_der_mescht,Mj Van Der Mescht,National / Southern,083 661 2901,,Gewas Adviseur,MartinusVDM@InteliGro.co.za,Kirkwood,InteliGro,South Africa,FALSE,InteliGro
+schalk_walters,Schalk Walters,National / Southern,083 301 5298,,Senior Gewas Adviseur,SchalkW@InteliGro.co.za,Langkloof,InteliGro,South Africa,FALSE,InteliGro
+jac_pasques,Jac Pasques,National / Southern,084 487 1122,,Leerling Gewas Adviseur,ljpasques@gmail.com,,InteliGro,South Africa,FALSE,InteliGro
+albertus_maartens,Albertus Maartens,National / Northern / Mpumalanga,082 616 2142,082 940 1378,,BertusM@InteliGro.co.za,Greylingstad,InteliGro,South Africa,FALSE,InteliGro
+buks_de_bruin,Buks De Bruin,National / Northern / Eastern Free State,082 494 9057,073 651 7890,,BuksDB@InteliGro.co.za ,Clocolan,InteliGro,South Africa,FALSE,InteliGro
+cois_fourie,Cois Fourie,National / Northern / Eastern Free State,083 419 5757,072 338 6620,,CoisF@InteliGro.co.za ,Bethlehem,InteliGro,South Africa,FALSE,InteliGro
+eti�nne_aucamp,Eti�nne Aucamp,National / Northern / Eastern Free State,083 600 5779,082 601 5452,,EtienneA@InteliGro.co.za ,Parys,InteliGro,South Africa,FALSE,InteliGro
+franco_maree,Franco Maree,National / Northern / Eastern Free State,082 923 3209,072 338 6620,,FrancoM@InteliGro.co.za ,Bethlehem,InteliGro,South Africa,FALSE,InteliGro
+francois_fivaz,Francois Fivaz,National / Northern / Eastern Free State,082 573 4579,072 243 3421,,FrancoisF@InteliGro.co.za,Edenville,InteliGro,South Africa,FALSE,InteliGro
+francois_koch,Francois Koch,National / Northern / Gauteng,083 651 1571,078 312 5319,,FrancoisK@InteliGro.co.za,Heidelberg,InteliGro,South Africa,FALSE,InteliGro
+gerald_du_plessis,Gerald Du Plessis,National / Northern / Eastern Free State,083 246 5388,,,GeraldDP@InteliGro.co.za,Harrismith,InteliGro,South Africa,FALSE,InteliGro
+gerrie_van_der_westhuizen,Gerrie Van Der Westhuizen,National / Northern / Mpumalanga,083 265 2672,079 883 6238,,GerrieVDW@InteliGro.co.za ,Standerton,InteliGro,South Africa,FALSE,InteliGro
+hennie_oosthuizen,Hennie Oosthuizen,National / Northern / Gauteng,076 485 6874,,,HennieO@InteliGro.co.za,Heidelberg,InteliGro,South Africa,FALSE,InteliGro
+ignus_van_rooyen,Ignus Van Rooyen,National / Northern / Mpumalanga,082 603 2810,,,IgnusVR@InteliGro.co.za,Ermelo,InteliGro,South Africa,FALSE,InteliGro
+jannie_van_aswegen,Jannie Van Aswegen,National / Northern / Mpumalanga,082 495 9831,,,JannieVA@InteliGro.co.za ,Morgenzon,InteliGro,South Africa,FALSE,InteliGro
+jurgens_kotz�,Jurgens Kotz�,National / Northern / Eastern Free State,083 414 3034,083 290 4313,,JurgensK@InteliGro.co.za,Senekal,InteliGro,South Africa,FALSE,InteliGro
+kobus_du_toit,Kobus Du Toit,National / Northern / Eastern Free State,083 308 1437,084 306 1437,,KobusDT@InteliGro.co.za,Marquard,InteliGro,South Africa,FALSE,InteliGro
+louis_koch,Louis Koch,National / Northern / Eastern Free State,073 661 0452,083 290 4313,,LouisK@InteliGro.co.za ,Senekal,InteliGro,South Africa,FALSE,InteliGro
+louis_lombard,Louis Lombard,National / Northern / Eastern Free State,072 677 6717,,,LouisL@InteliGro.co.za,Vrede,InteliGro,South Africa,FALSE,InteliGro
+louis_pieterse_(jnr),Louis Pieterse (Jnr),National / Northern / Eastern Free State,082 944 7716,082 534 8372,,Louis@agrixtreme.co.za ,Reitz,InteliGro,South Africa,FALSE,InteliGro
+louis_pieterse_(snr),Louis Pieterse (Snr),National / Northern / Eastern Free State,082 578 5614,082 534 8372,,Ld@agrixtreme.co.za,Reitz,InteliGro,South Africa,FALSE,InteliGro
+meyer_kotz�,Meyer Kotz�,National / Northern / Eastern Free State,082 908 9994,083 290 4313,,MeyerK@InteliGro.co.za,Senekal,InteliGro,South Africa,FALSE,InteliGro
+riaan_odendaal,Riaan Odendaal,National / Northern / Eastern Free State,082 743 9832,082 774 3784,,RiaanO@InteliGro.co.za,Frankfort,InteliGro,South Africa,FALSE,InteliGro
+trevor_kahts,Trevor Kahts,National / Northern / Eastern Free State,073 307 8007,083 290 4313,,TrevorK@InteliGro.co.za ,Senekal,InteliGro,South Africa,FALSE,InteliGro
+casper_groenewald,Casper Groenewald,National / Northern / Western Free State,082 554 3085,072 485 4060,,CasperG@InteliGro.co.za ,Bloemfontein,InteliGro,South Africa,FALSE,InteliGro
+cp_scheepers,Cp Scheepers,National / Northern / Western Free State,079 717 3830,,,CPS@InteliGro.co.za,Bothaville,InteliGro,South Africa,FALSE,InteliGro
+dawie_human,Dawie Human,National / Northern / Western Free State,083 286 4943,,,DawieH@InteliGro.co.za,Hopetown,InteliGro,South Africa,FALSE,InteliGro
+dewald_pieters,Dewald Pieters,National / Northern / North West,082 677 8497,079 887 0922,,DewaldP@InteliGro.co.za ,Koster,InteliGro,South Africa,FALSE,InteliGro
+dries_burger,Dries Burger,National / Northern / North West,082 823 6034,079 491 7348,,DriesB@InteliGro.co.za ,Potchefstroom,InteliGro,South Africa,FALSE,InteliGro
+emile_masuret,Emile Masuret,National / Northern / Western Free State,082 664 6794,,,EmileM@InteliGro.co.za ,Jacobsdal,InteliGro,South Africa,FALSE,InteliGro
+heino_erasmus,Heino Erasmus,National / Northern / Western Free State,082 552 5795,,,HeinoE@InteliGro.co.za ,Viljoenskroon,InteliGro,South Africa,FALSE,InteliGro
+herman_van_zyl,Herman Van Zyl,National / Northern / Western Free State,082 809 9742,082 925 1399,,HermanVZ@InteliGro.co.za ,Hoopstad,InteliGro,South Africa,FALSE,InteliGro
+izak_venter,Izak Venter,National / Northern / Western Free State,064 657 5655,066 254 8441,,IzakV@InteliGro.co.za ,Welkom/Hennenman,InteliGro,South Africa,FALSE,InteliGro
+jaco_van_tonder_,Jaco Van Tonder ,National / Northern / Western Free State,082 685 3406,,,JacoVT@InteliGro.co.za,Lichtenburg,InteliGro,South Africa,FALSE,InteliGro
+jorrie_jordaan,Jorrie Jordaan,National / Northern / Western Free State,083 289 3644,083 701 9241,,JorrieJ@InteliGro.co.za ,Bothaville,InteliGro,South Africa,FALSE,InteliGro
+julian_smit,Julian Smit,National / Northern / Western Free State,083 656 4440,072 552 6671,,JulianS@InteliGro.co.za,Bothaville,InteliGro,South Africa,FALSE,InteliGro
+kobus_jordaan,Kobus Jordaan,National / Northern / Western Free State,073 166 5265,,,KobusJ@InteliGro.co.za ,Viljoenskroon,InteliGro,South Africa,FALSE,InteliGro
+natie_visser,Natie Visser,National / Northern / North West,083 298 1073,,,NatieV@InteliGro.co.za ,Sannieshof,InteliGro,South Africa,FALSE,InteliGro
+paul_du_plessis,Paul Du Plessis,National / Northern / North West,072 980 0609,082 757 7132,,Ottosdal@InteliGro.co.za,Ottosdal,InteliGro,South Africa,FALSE,InteliGro
+piet_venter,Piet Venter,National / Northern / Western Free State,082 773 5055,066 254 8441,,PietV@InteliGro.co.za ,Welkom/Hennenman,InteliGro,South Africa,FALSE,InteliGro
+ruan_prinsloo,Ruan Prinsloo,National / Northern / North West,079 123 2749,,,RuanP@InteliGro.co.za,Brits,InteliGro,South Africa,FALSE,InteliGro
+tommie_wiersma,Tommie Wiersma,National / Northern / North West,082 385 7122,082 757 7132,,TommieW@InteliGro.co.za ,Ottosdal,InteliGro,South Africa,FALSE,InteliGro
+arthur_lilford,Arthur Lilford,National / Northern / Limpopo,082 887 3717,,,ArthurL@InteliGro.co.za,Polokwane,InteliGro,South Africa,FALSE,InteliGro
+christopher_nowak,Christopher Nowak,National / Northern / Gauteng,083 279 8366,082 558 2069,,ChristopherN@InteliGro.co.za,Tarlton,InteliGro,South Africa,FALSE,InteliGro
+danie_buys,Danie Buys,National / Northern / Limpopo,082 650 9184,079 459 2977,,DanieB@InteliGro.co.za,Naboomspruit,InteliGro,South Africa,FALSE,InteliGro
+derik_kruger,Derik Kruger,National / Northern / Limpopo,071 237 3287,071 691 9465,,DerikK@InteliGro.co.za,Groblersdal,InteliGro,South Africa,FALSE,InteliGro
+hentie_louw,Hentie Louw,National / Northern / Limpopo,082 327 4162,,,HentieL@InteliGro.co.za,Lydenburg,InteliGro,South Africa,FALSE,InteliGro
+kevin_language,Kevin Language,National / Northern / Limpopo,082 835 3007,071 691 9465,,KevinL@InteliGro.co.za,Groblersdal distrikte,InteliGro,South Africa,FALSE,InteliGro
+mark_de_jonge,Mark De Jonge,National / Northern / Limpopo,083 794 2570,,,MarkDJ@InteliGro.co.za,Tzaneen,InteliGro,South Africa,FALSE,InteliGro
+pine_liebenberg,Pine Liebenberg,National / Northern / Limpopo,083 255 9566,082 779 5119,,PineL@InteliGro.co.za ,Bela-Bela (Warmbad),InteliGro,South Africa,FALSE,InteliGro
+ri�l_van_der_ryst,Ri�l Van Der Ryst,National / Northern / Limpopo,083 233 8936,,,RielVdR@InteliGro.co.za,Hoedspruit,InteliGro,South Africa,FALSE,InteliGro
+rudolph_kruger,Rudolph Kruger,National / Northern / Limpopo,083 620 1461,,,RudolphPK@InteliGro.co.za,Polokwane,InteliGro,South Africa,FALSE,InteliGro
+wiam_vermaas,Wiam Vermaas,National / Northern / Mpumalanga,072 398 1004,,,WiamV@InteliGro.co.za,Nelspruit,InteliGro,South Africa,FALSE,InteliGro
+wessel_vermaas,Wessel Vermaas,National / Northern / Mpumalanga,082 575 4543,082 968 8385,,WesselV@InteliGro.co.za ,Nelspruit,InteliGro,South Africa,FALSE,InteliGro
+dean_richardson,Dean Richardson,National / Northern / Kwazulu-Natal,082 659 9822,,,DeanR@InteliGro.co.za,Alverstone,InteliGro,South Africa,FALSE,InteliGro
+izak_uys,Izak Uys,National / Northern / Kwazulu-Natal,083 250 0804,,,IzakU@InteliGro.co.za,Vryheid,InteliGro,South Africa,FALSE,InteliGro
+johan_marais,Johan Marais,National / Northern / Kwazulu-Natal,082 850 6655,,,JohanM@InteliGro.co.za,KZN Midlands,InteliGro,South Africa,FALSE,InteliGro
+riaan_van_staden,Riaan Van Staden,National / Northern / Kwazulu-Natal,084 555 0749,,,RiaanVS@InteliGro.co.za,Empangeni,InteliGro,South Africa,FALSE,InteliGro

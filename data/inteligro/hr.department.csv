@@ -1,0 +1,12 @@
+name,company_id,parent_id
+National,InteliGro,
+Southern,InteliGro,National
+Northern,InteliGro,National
+Eastern Free State,InteliGro,National / Northern
+Mpumalanga,InteliGro,National / Northern
+Eastern Free State,InteliGro,National / Northern
+Gauteng,InteliGro,National / Northern
+Western Free State,InteliGro,National / Northern
+North West,InteliGro,National / Northern
+Limpopo,InteliGro,National / Northern
+Kwazulu-Natal,InteliGro,National / Northern
