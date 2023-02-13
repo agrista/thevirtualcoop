@@ -6,3 +6,7 @@
 	path = src/addons
 	url = git@github.com:sdxafrica/admin-addons.git
 	branch = 14.0
+[submodule "src/payment-payfast"]
+	path = src/payment-payfast
+	url = git@github.com:contagra/odoo-payment-payfast.git
+	branch = 14.0

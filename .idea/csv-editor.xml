@@ -24,13 +24,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/data/product.template.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="/data/thevirtualcoop/product.public.category.csv">
           <value>
             <Attribute>
@@ -74,6 +67,13 @@
           </value>
         </entry>
         <entry key="/src/addons/agri/data/agri.active.ingredient.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/addons/agri/data/agri.pest.disease.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

@@ -4,5 +4,6 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/addons" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/marketplace" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/payment-payfast" vcs="Git" />
   </component>
 </project>
