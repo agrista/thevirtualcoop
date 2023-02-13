@@ -1,5 +1,7 @@
 # The Virtual Coop Platform
 
+Built on Odoo 14.0.
+
 # Setting up the connector
 
 Open the shell on Odoo.sh:
