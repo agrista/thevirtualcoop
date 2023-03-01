@@ -4,5 +4,4 @@ unidecode
 chardet
 pytz
 pyyaml
-shapely
-geojson
+openupgradelib
