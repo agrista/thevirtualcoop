@@ -1,12 +1,12 @@
 [submodule "src/marketplace"]
 	path = src/marketplace
 	url = git@github.com:contagra/odoo-marketplace.git
-	branch = 14.0
+	branch = 16.0
 [submodule "src/addons"]
 	path = src/addons
 	url = git@github.com:sdxafrica/admin-addons.git
-	branch = 14.0
+	branch = 16.0
 [submodule "src/payment-payfast"]
 	path = src/payment-payfast
 	url = git@github.com:contagra/odoo-payment-payfast.git
-	branch = 14.0
+	branch = 16.0

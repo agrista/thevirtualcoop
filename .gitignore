@@ -1,0 +1,30 @@
+# sphinx build directories
+_build/
+
+# dotfiles
+.*
+!.gitignore
+!.mailmap
+!.gitmodules
+!.dockerignore
+
+# compiled python files
+*.py[co]
+__pycache__/
+# setup.py egg_info
+*.egg-info
+
+# not tracked subdirectories
+/venv/
+/filestore*/
+/log/
+/backlog/
+/sandbox/
+/.venv
+
+#IDE
+.idea
+!.vscode/
+
+# Environment file
+.env
