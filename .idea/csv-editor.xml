@@ -3,6 +3,27 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="$PROJECT_DIR$/../../../Library/Odoo/odoo/odoo-16/addons/website_sale/security/ir.model.access.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Library/Odoo/odoo/odoo-16/odoo/addons/base/data/res.country.state.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Library/Odoo/odoo/odoo-16/odoo/addons/base/data/res.lang.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/data/inteligro/crm.team.csv">
           <value>
             <Attribute>
@@ -66,6 +87,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/sandbox/odoo_marketplace/security/ir.model.access.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/src/addons/agri/data/agri.active.ingredient.csv">
           <value>
             <Attribute>
@@ -88,6 +116,55 @@
           </value>
         </entry>
         <entry key="/src/marketplace/marketplace/security/ir.model.access.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/marketplace/marketplace_blog/security/ir.model.access.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/marketplace/marketplace_customer_quote/security/ir.model.access.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/marketplace/marketplace_hyperlocal/security/ir.model.access.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/marketplace/marketplace_membership/security/ir.model.access.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/marketplace/marketplace_messages/security/ir.model.access.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/marketplace/marketplace_sms_notification/security/ir.model.access.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/marketplace/odoo_marketplace/security/ir.model.access.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
