@@ -164,13 +164,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/src/marketplace/odoo_marketplace/security/ir.model.access.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
       </map>
     </option>
   </component>

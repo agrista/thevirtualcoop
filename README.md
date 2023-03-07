@@ -1,6 +1,6 @@
 # The Virtual Coop Platform
 
-Built on Odoo 14.0.
+Built on Odoo 16.0.
 
 # Setting up the connector
 
