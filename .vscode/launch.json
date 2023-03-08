@@ -14,7 +14,7 @@
       "args": [
         "--config=${workspaceFolder}/odoo.dev.conf",
         "--dev=all",
-        "--update=marketplace",
+        //"--update=marketplace",
         "--without-demo=all",
         "--limit-time-real=99999",
       ],
