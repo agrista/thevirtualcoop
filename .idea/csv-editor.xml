@@ -108,6 +108,55 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/data/get-energy-today/odoo/delivery_carrier.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/get-energy-today/odoo/partners.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/get-energy-today/odoo/product_product.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/get-energy-today/odoo/product_template.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/get-energy-today/odoo/stock_warehouse.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/get-energy-today/odoo/warehouses.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/get-energy-today/warehouses.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/data/inteligro/crm.team.csv">
           <value>
             <Attribute>
@@ -249,6 +298,13 @@
           </value>
         </entry>
         <entry key="/src/marketplace/marketplace_sms_notification/security/ir.model.access.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/marketplace/website_customer_quote/security/ir.model.access.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

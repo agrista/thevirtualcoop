@@ -1,0 +1,36 @@
+external_id,name,city,address1,partner_latitude,partner_longitude,parent_id,type,company_id
+getenergy.partner_144,Alberton - Shell - Alrode,Alberton,"40 Hibiscus Avenue, Allrode, Alberton",-26.294065, 28.12507,getenergy.parent_7,delivery,Get Energy Today (Pty) Ltd
+getenergy.partner_148,Bethlehem - Engen,Bethlehem,Cnr Muller & Baxter street Bethlehem,-28.232963, 28.300011,getenergy.parent_4,delivery,Get Energy Today (Pty) Ltd
+getenergy.partner_147,Bloemfontein - Engen - Hamilton,Bloemfontein,"292 Church Street Bloemfontein, Engen Hamilton Depot",-29.158927, 26.21972,getenergy.parent_4,delivery,Get Energy Today (Pty) Ltd
+getenergy.partner_186,Cedarville - WBG Depot,Cedarville,"335A Martins Road, Cedarville, Eastern Cape",-30.387575, 29.041,getenergy.parent_10,delivery,Get Energy Today (Pty) Ltd
+getenergy.partner_188,Cliffdale - WBG Depot,Cliffdale (Elangeni),"Sterkspruit Road, Cliffdale, Elangeni, Outer West Durban",-29.77838, 30.679656,getenergy.parent_10,delivery,Get Energy Today (Pty) Ltd
+getenergy.partner_635,CPT - BP - Montague,Cape Town,"20 Esso Road Montaque Gardens, Cape Town",-33.855101, 18.52467,getenergy.parent_1,delivery,Get Energy Today (Pty) Ltd
+getenergy.partner_157,CPT - Engen - Montague,Milnerton,"24 Esso Road, Montaque Gardens, Cape Town",-33.853108, 18.526524,getenergy.parent_4,delivery,Get Energy Today (Pty) Ltd
+getenergy.partner_176,CPT - Shell - Killarney,Cape Town,"20 Esso Road Montaque Gardens, Cape Town",-33.855101, 18.52467,getenergy.parent_7,delivery,Get Energy Today (Pty) Ltd
+getenergy.partner_187,Creighton - WBG Depot - KZN,Creighton,"Main Road Creighton, KZN",-30.0304167, 29.834055,getenergy.parent_10,delivery,Get Energy Today (Pty) Ltd
+getenergy.partner_570,DBN - BP - Island View,Durban,"38 Hokkaido Rd, Island View, Bluff, Durban",-29.890252, 31.037944,getenergy.parent_1,delivery,Get Energy Today (Pty) Ltd
+getenergy.partner_159,DBN - Chemicals  (IVD),Durban,"1 Luzon Road, Island View, Bluff, 4052",-29.889848, 31.037719,getenergy.parent_10,delivery,Get Energy Today (Pty) Ltd
+getenergy.partner_158,DBN - Engen - Wentworth,Durban,"465 Tara Road, Durban",-29.943661, 30.985449,getenergy.parent_4,delivery,Get Energy Today (Pty) Ltd
+getenergy.partner_175,DBN - Shell - Island View,Durban,"38 Hokkaido Rd, Island View, Durban",-29.853581, 30.934829,getenergy.parent_7,delivery,Get Energy Today (Pty) Ltd
+getenergy.partner_160,East London - Engen Terminal,East London,"Jonker Crescent, East London, 5201",-33.032091, 27.89931,getenergy.parent_4,delivery,Get Energy Today (Pty) Ltd
+getenergy.partner_181,Ermelo - WBG Depot,Ermelo,"Saratoga Road, Nederland Park, Ermelo, Mpumalanga",-26.539666, 30.001472,getenergy.parent_10,delivery,Get Energy Today (Pty) Ltd
+getenergy.partner_145,Klerksdorp - BP ,Klerksdorp,"6 Mahogany Avenue, Klerksdorp",-26.89351, 26.665334,getenergy.parent_1,delivery,Get Energy Today (Pty) Ltd
+getenergy.partner_638,Klerksdorp - Engen,Klerksdorp,"6 Mahogany Avenue, Klerksdorp",-26.89351, 26.665334,getenergy.parent_4,delivery,Get Energy Today (Pty) Ltd
+getenergy.partner_146,Kroonstad - Engen ,Kroonstad,"CNR 1STE AVE, 2DE AVE, DUNHILL KROONSTAD",-27.677162, 27.226434,getenergy.parent_4,delivery,Get Energy Today (Pty) Ltd
+getenergy.partner_149,Krugersdorp - Puma - Tarlton,Krugersdorp,N14 Wolfelea,-26.079798, 27.643761,getenergy.parent_8,delivery,Get Energy Today (Pty) Ltd
+getenergy.partner_165,Ladysmith - Engen,Ladysmith,"1 Mill Street,Ladysmith,KZN",-28.573914, 29.792662,getenergy.parent_4,delivery,Get Energy Today (Pty) Ltd
+getenergy.partner_143,Langlaagte - Puma,Johannesburg,"Cnr Main Reef Road & 1 Avon Street, Langlaagte, Johannesburg, 2092, South Africa",-26.207528, 27.981538,getenergy.parent_8,delivery,Get Energy Today (Pty) Ltd
+getenergy.partner_156,Makhado - Engen,Louis Trichardt,"5 Unika Street, Louis Trichardt",-23.069779, 29.908764,getenergy.parent_4,delivery,Get Energy Today (Pty) Ltd
+getenergy.partner_831,Matola - Puma - Mozambique,Matola,Matola Mozambique,-25.926098, 32.466339,getenergy.parent_8,delivery,Get Energy Today (Pty) Ltd
+getenergy.partner_155,Mokopane - Engen,Mokopane (Potgietersrus) SW (11C),"19 2nd avenue Mokopane, Limpopo",-24.206491, 29.020992,getenergy.parent_4,delivery,Get Energy Today (Pty) Ltd
+getenergy.partner_162,Mossel Bay - Petro SA,Mossel Bay,Depot Road Mosselbay,-34.149806, 22.108112,getenergy.parent_10,delivery,Get Energy Today (Pty) Ltd
+getenergy.partner_152,Nelspruit - Shell - Wolfaardt,Nelspruit,"3 Wolfaardt Str, Nelspruit",-25.460581, 30.985119,getenergy.parent_7,delivery,Get Energy Today (Pty) Ltd
+getenergy.partner_161,PE - NRWS - Dom Pedro Terminal,Port Elizabeth,"Unitrans Fuel & Chemical (Pty) Ltd Dom Pedro Jetty Port Elizabeth Harbour, Port Elizabeth, 6001",-33.957345, 25.631833,getenergy.parent_10,delivery,Get Energy Today (Pty) Ltd
+getenergy.partner_189,Port Shepstone - WBG Depot - Marburg,Port Shepstone,"3 Servus Road, Marburg, Port Shepstone, KZN",-30.752055, 30.427666,getenergy.parent_10,delivery,Get Energy Today (Pty) Ltd
+getenergy.partner_177,Pretoria - BP - Waltloo,Pretoria,"301 Kuit Str, Waltloo, Silverton, Pretoria",-25.725354, 28.322958,getenergy.parent_1,delivery,Get Energy Today (Pty) Ltd
+getenergy.partner_150,Pretoria - Engen - Waltloo,Pretoria,"282 Alwyn St, Waltloo, Pretoria",-25.725926, 28.31737,getenergy.parent_4,delivery,Get Energy Today (Pty) Ltd
+getenergy.partner_164,Richards Bay - Puma,Richardsbay,3 2nd Street Richards Bay,-28.776522, 31.901604,getenergy.parent_8,delivery,Get Energy Today (Pty) Ltd
+getenergy.partner_153,Rustenburg - ENGEN,Rustenburg,"8 Coetzer St, Rustenburg",-25.675481, 27.257212,getenergy.parent_4,delivery,Get Energy Today (Pty) Ltd
+getenergy.partner_154,Secunda - Sasol - Unitrans Control,Secunda,"Synfuels Rd, Secunda, 2302",-26.55304, 29.163815,getenergy.parent_6,delivery,Get Energy Today (Pty) Ltd
+getenergy.partner_163,Upington - Engen,Upington,"15 Industria Road, Upington",-28.449218, 21.221653,getenergy.parent_4,delivery,Get Energy Today (Pty) Ltd
+getenergy.partner_151,Witbank - Engen,Witbank,Sconland Drive Witbank,-25.852636, 29.168998,getenergy.parent_4,delivery,Get Energy Today (Pty) Ltd

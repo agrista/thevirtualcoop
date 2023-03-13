@@ -1,0 +1,36 @@
+external_id,warehouse_id,name,delivery_type,company_id,product_id
+getenergy.delivery_144,getenergy.warehouse_144,Collect at Alberton - Shell - Alrode,onsite,Get Energy Today (Pty) Ltd,getenergy.product_144
+getenergy.delivery_148,getenergy.warehouse_148,Collect at Bethlehem - Engen,onsite,Get Energy Today (Pty) Ltd,getenergy.product_148
+getenergy.delivery_147,getenergy.warehouse_147,Collect at Bloemfontein - Engen - Hamilton,onsite,Get Energy Today (Pty) Ltd,getenergy.product_147
+getenergy.delivery_186,getenergy.warehouse_186,Collect at Cedarville - WBG Depot,onsite,Get Energy Today (Pty) Ltd,getenergy.product_186
+getenergy.delivery_188,getenergy.warehouse_188,Collect at Cliffdale - WBG Depot,onsite,Get Energy Today (Pty) Ltd,getenergy.product_188
+getenergy.delivery_635,getenergy.warehouse_635,Collect at CPT - BP - Montague,onsite,Get Energy Today (Pty) Ltd,getenergy.product_635
+getenergy.delivery_157,getenergy.warehouse_157,Collect at CPT - Engen - Montague,onsite,Get Energy Today (Pty) Ltd,getenergy.product_157
+getenergy.delivery_176,getenergy.warehouse_176,Collect at CPT - Shell - Killarney,onsite,Get Energy Today (Pty) Ltd,getenergy.product_176
+getenergy.delivery_187,getenergy.warehouse_187,Collect at Creighton - WBG Depot - KZN,onsite,Get Energy Today (Pty) Ltd,getenergy.product_187
+getenergy.delivery_570,getenergy.warehouse_570,Collect at DBN - BP - Island View,onsite,Get Energy Today (Pty) Ltd,getenergy.product_570
+getenergy.delivery_159,getenergy.warehouse_159,Collect at DBN - Chemicals  (IVD),onsite,Get Energy Today (Pty) Ltd,getenergy.product_159
+getenergy.delivery_158,getenergy.warehouse_158,Collect at DBN - Engen - Wentworth,onsite,Get Energy Today (Pty) Ltd,getenergy.product_158
+getenergy.delivery_175,getenergy.warehouse_175,Collect at DBN - Shell - Island View,onsite,Get Energy Today (Pty) Ltd,getenergy.product_175
+getenergy.delivery_160,getenergy.warehouse_160,Collect at East London - Engen Terminal,onsite,Get Energy Today (Pty) Ltd,getenergy.product_160
+getenergy.delivery_181,getenergy.warehouse_181,Collect at Ermelo - WBG Depot,onsite,Get Energy Today (Pty) Ltd,getenergy.product_181
+getenergy.delivery_145,getenergy.warehouse_145,Collect at Klerksdorp - BP ,onsite,Get Energy Today (Pty) Ltd,getenergy.product_145
+getenergy.delivery_638,getenergy.warehouse_638,Collect at Klerksdorp - Engen,onsite,Get Energy Today (Pty) Ltd,getenergy.product_638
+getenergy.delivery_146,getenergy.warehouse_146,Collect at Kroonstad - Engen ,onsite,Get Energy Today (Pty) Ltd,getenergy.product_146
+getenergy.delivery_149,getenergy.warehouse_149,Collect at Krugersdorp - Puma - Tarlton,onsite,Get Energy Today (Pty) Ltd,getenergy.product_149
+getenergy.delivery_165,getenergy.warehouse_165,Collect at Ladysmith - Engen,onsite,Get Energy Today (Pty) Ltd,getenergy.product_165
+getenergy.delivery_143,getenergy.warehouse_143,Collect at Langlaagte - Puma,onsite,Get Energy Today (Pty) Ltd,getenergy.product_143
+getenergy.delivery_156,getenergy.warehouse_156,Collect at Makhado - Engen,onsite,Get Energy Today (Pty) Ltd,getenergy.product_156
+getenergy.delivery_831,getenergy.warehouse_831,Collect at Matola - Puma - Mozambique,onsite,Get Energy Today (Pty) Ltd,getenergy.product_831
+getenergy.delivery_155,getenergy.warehouse_155,Collect at Mokopane - Engen,onsite,Get Energy Today (Pty) Ltd,getenergy.product_155
+getenergy.delivery_162,getenergy.warehouse_162,Collect at Mossel Bay - Petro SA,onsite,Get Energy Today (Pty) Ltd,getenergy.product_162
+getenergy.delivery_152,getenergy.warehouse_152,Collect at Nelspruit - Shell - Wolfaardt,onsite,Get Energy Today (Pty) Ltd,getenergy.product_152
+getenergy.delivery_161,getenergy.warehouse_161,Collect at PE - NRWS - Dom Pedro Terminal,onsite,Get Energy Today (Pty) Ltd,getenergy.product_161
+getenergy.delivery_189,getenergy.warehouse_189,Collect at Port Shepstone - WBG Depot - Marburg,onsite,Get Energy Today (Pty) Ltd,getenergy.product_189
+getenergy.delivery_177,getenergy.warehouse_177,Collect at Pretoria - BP - Waltloo,onsite,Get Energy Today (Pty) Ltd,getenergy.product_177
+getenergy.delivery_150,getenergy.warehouse_150,Collect at Pretoria - Engen - Waltloo,onsite,Get Energy Today (Pty) Ltd,getenergy.product_150
+getenergy.delivery_164,getenergy.warehouse_164,Collect at Richards Bay - Puma,onsite,Get Energy Today (Pty) Ltd,getenergy.product_164
+getenergy.delivery_153,getenergy.warehouse_153,Collect at Rustenburg - ENGEN,onsite,Get Energy Today (Pty) Ltd,getenergy.product_153
+getenergy.delivery_154,getenergy.warehouse_154,Collect at Secunda - Sasol - Unitrans Control,onsite,Get Energy Today (Pty) Ltd,getenergy.product_154
+getenergy.delivery_163,getenergy.warehouse_163,Collect at Upington - Engen,onsite,Get Energy Today (Pty) Ltd,getenergy.product_163
+getenergy.delivery_151,getenergy.warehouse_151,Collect at Witbank - Engen,onsite,Get Energy Today (Pty) Ltd,getenergy.product_151
