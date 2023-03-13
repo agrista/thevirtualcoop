@@ -192,6 +192,34 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/data/virtualfarmer/agri_farm.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/virtualfarmer/agri_farm_1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/virtualfarmer/agri_farm_100.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/virtualfarmer/agri_portfolio.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/data/wusa/product.template.1..csv">
           <value>
             <Attribute>
