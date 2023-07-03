@@ -1,4 +1,4 @@
-[submodule "src/thevirtualcoop"]
+[submodule "addons"]
 	path = addons
 	url = git@github.com:agrista/thevirtualcoop-addons.git
 	branch = 16.0
